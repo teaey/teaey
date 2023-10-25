@@ -1,22 +1,12 @@
-## 😄 About Me
-<strong> 空正 | Teaey </strong>
+## 🔥 招聘
+- 存储专家
+- 监控专家
+- 中间件专家
+- 业务平台研发
 
-- 经历：中间件/移动中间件/架构 | 用户增长/用户触达 | 消息平台/IM系统
-  - 注重：代码质量、系统设计、架构完备
-  - 就职阿里巴巴中间件、阿里巴巴淘系
-
-
-<!--
-**teaey/teaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 👉 About Me
+<strong> teaey </strong>
+就职阿里巴巴中间件、阿里巴巴淘系
+- 经历：中间件/移动中间件/架构 | 用户增长/用户触达 | 消息平台/IM架构
+- 注重：面向风险编程、代码质量、系统设计、架构完备

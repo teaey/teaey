@@ -1,4 +1,10 @@
-### Hi there 👋
+## 😄 About Me
+<strong> 空正 | Teaey </strong>
+
+- 经历：中间件/移动中间件/架构 | 用户增长/用户触达 | 消息平台/IM系统
+  - 注重：代码质量、系统设计、架构完备
+  - 就职阿里巴巴中间件、阿里巴巴淘系
+
 
 <!--
 **teaey/teaey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
